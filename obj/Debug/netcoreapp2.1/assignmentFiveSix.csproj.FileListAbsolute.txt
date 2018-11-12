@@ -1,0 +1,11 @@
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentFiveSix/obj/Debug/netcoreapp2.1/assignmentFiveSix.csprojAssemblyReference.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentFiveSix/obj/Debug/netcoreapp2.1/assignmentFiveSix.csproj.CoreCompileInputs.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentFiveSix/obj/Debug/netcoreapp2.1/assignmentFiveSix.AssemblyInfoInputs.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentFiveSix/obj/Debug/netcoreapp2.1/assignmentFiveSix.AssemblyInfo.cs
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentFiveSix/bin/Debug/netcoreapp2.1/assignmentFiveSix.deps.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentFiveSix/bin/Debug/netcoreapp2.1/assignmentFiveSix.runtimeconfig.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentFiveSix/bin/Debug/netcoreapp2.1/assignmentFiveSix.runtimeconfig.dev.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentFiveSix/bin/Debug/netcoreapp2.1/assignmentFiveSix.dll
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentFiveSix/bin/Debug/netcoreapp2.1/assignmentFiveSix.pdb
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentFiveSix/obj/Debug/netcoreapp2.1/assignmentFiveSix.dll
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentFiveSix/obj/Debug/netcoreapp2.1/assignmentFiveSix.pdb
