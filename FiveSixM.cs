@@ -29,12 +29,14 @@ namespace assignmentFiveSix
             {
                 uC = getInput();
                 cC = rnd.Next(1, 4);
+                FiveSix1 game = new FiveSix1();
+                
+
                 //win 
                 if (uC == 1 && cC == 3 || uC == 2 && cC == 1 || uC == 3 && cC == 2)
                 {
-                    wallet += bet;
-                    counterU++;
-                    
+                    wallet = game.calcWin(wallet,bet);
+                    counterU++;              
                 } 
                 //tie
                 else if (uC == 0){
@@ -43,12 +45,13 @@ namespace assignmentFiveSix
                 // lose
                 else 
                 {
-                    wallet -= bet;
+                    wallet = game.calcLose(wallet,bet);
                     counterC++;
                 }
 
-                Console.WriteLine("\tUser score and wallet, respectively: "+counterU+ " & "+wallet);
+                Console.WriteLine("\tWallet amount: $"+wallet);
                 Console.WriteLine("\tComputer score: "+counterC);
+                Console.WriteLine("\tUser score: "+counterU);
 
                 if (counterC == 4 || counterU ==4){
                     break;
@@ -57,6 +60,14 @@ namespace assignmentFiveSix
             }
 
             Console.WriteLine("Gameover!");
+            
+
+            /* if (wallet > 100){
+                Console.WriteLine("\tYou made $"+ wallet-100 +"dollars.");
+            }
+            else {
+                Console.WriteLine("\tYou lost $"+ 100-wallet +"dollars.");
+            }*/ 
 
             
     
